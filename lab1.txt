@@ -55,6 +55,7 @@ XML CODE:
             
 JAVA CODE: 
 
+package com.myapplication1.form;
 <android.support.constraint.Constraints
     android:id="@+id/constraints"
     android:layout_width="wrap_content"
