@@ -1,4 +1,4 @@
-XML code-
+XML CODE:
 
 <?xml version="1.0" encoding="utf-8"?>
 <AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -111,7 +111,7 @@ XML code-
 </AbsoluteLayout>
 
 
-Java code-
+JAVA CODE:
 
 package com.example.mad04;
 
