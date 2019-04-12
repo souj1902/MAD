@@ -27,6 +27,7 @@ XML CODE:
         android:layout_margin="30dp"
         android:layout_gravity="center"
         android:text="Notify"
+        android:onClick="displaynotification"
         android:textSize="30sp"/>
 
 </LinearLayout>
